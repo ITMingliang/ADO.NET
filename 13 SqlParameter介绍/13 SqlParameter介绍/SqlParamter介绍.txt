@@ -1,0 +1,42 @@
+定义 表示SqlCommand对象的参数，或与DataSet中列的映射。
+
+
+常用属性
+
+   DbType 参数的SqlDbType（数据类型 数据库的类型而言）
+   Direction  参数的类型：输入  输出  输入输出、返回值参数
+   ParameterName 参数的名称 
+   Size  最大大小 字节为单位
+   Value 参数的值
+   SqlValue 作为SQL类型的参数的值
+   
+   
+   
+
+
+构造方法
+
+          //参数的构造方法
+            //1.参数
+            SqlParameter pra1 = new SqlParameter();
+            pra1.ParameterName = "@userName";//参数名
+            pra1.SqlDbType = SqlDbType.VarChar;//数据类型
+            pra1.Value = "admin";//参数值
+            pra1.Size = 20;//大小
+            //2.参数名，值
+            SqlParameter para2 = new SqlParameter("@Age", 24);
+            //3.参数名  SqlDbType
+            SqlParameter para3 = new SqlParameter("@DeptId", SqlDbType.Int);
+            para3.Size = 4;
+            para3.Value = 3;
+            //4. 参数名 类型  大小
+            SqlParameter para4 = new SqlParameter("@UserPwd", SqlDbType.VarChar, 50);
+            para4.Value = "123456";
+            //5. 参数名称  类型  大小 源列名（对应DataTable中的列名）
+            SqlParameter para5 = new SqlParameter("@UserName", SqlDbType.VarChar, 20, "UName");
+            SqlCommand cmd = new SqlCommand();
+
+Leah QQ 2159674643
+
+   
+下节课：SqlCommand添加参数

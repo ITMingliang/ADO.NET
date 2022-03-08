@@ -1,0 +1,24 @@
+常用方法
+  Close() 关闭dr
+  GetInt32(列序号)--根据数据类型相匹配的方法
+  GetFieldType(i) 获取数据类型的Type
+  GetName(列序号) 获取指定列的列名
+  GetOrdinal(列名) 获取指定列名的列序号
+  Read() 使dr前进到下一条记录
+  NextResult() 使dr 前进到下一个记录
+   
+
+
+读取
+
+   Read()  
+
+   数据量小的情况  高效  
+
+   代码：结合项目代码看。
+
+
+Leah QQ 2159674643
+
+
+下节课：DataTable详解

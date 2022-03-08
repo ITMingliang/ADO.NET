@@ -1,0 +1,41 @@
+连接字符串是什么？
+
+  字符串，一组被格式化的键值对，数据源在哪里，数据库名，提供什么样访问信任级别，其他相关信息。
+
+  格式：一组元素组成，一个元素---键值对，各个元素之间 ; 隔开。
+
+
+SQLServer连接字符串
+ 
+
+
+  Sql server 身份验证
+
+     Data Source  数据源   Initial Catalog 数据库名  User Id 账号   Password 密码
+
+
+   Windows身份验证
+
+Data Source  数据源   Initial Catalog 数据库名   Integrated Security=True/SSPI
+                                                 Trusted_Connection=True
+
+Oracle 
+
+
+ Data Source  数据源     User Id 账号   Password 密码
+
+
+MySQL
+
+ Data Source  数据源   Initial Catalog 数据库名  User Id 账号   Password 密码
+
+
+
+Access
+
+Provider=Microsoft.Jet.OLEDB.4.0;    Data Source=文件的绝对路径  User Id=admin;  Password=1234;
+
+Leah QQ 2159674643
+
+
+下节课：连接字符串的构建

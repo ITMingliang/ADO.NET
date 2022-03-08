@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\bin\Debug\AdoNetCourseDataRelation.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\bin\Debug\AdoNetCourseDataRelation.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\bin\Debug\AdoNetCourseDataRelation.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\obj\Debug\AdoNetCourseDataRelation.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\obj\Debug\AdoNetCourseDataRelation.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\obj\Debug\AdoNetCourseDataRelation.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseDataRelation\AdoNetCourseDataRelation\obj\Debug\AdoNetCourseDataRelation.pdb

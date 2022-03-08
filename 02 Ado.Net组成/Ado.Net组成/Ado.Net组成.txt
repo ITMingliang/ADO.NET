@@ -1,0 +1,37 @@
+
+System.Data.dll中，System.Data命名空间，提供不同Ado.Net类
+
+
+
+组成：
+
+
+1.DataSet   非连接的核心组件。独立于任何数据源的数据访问，多种不同的数据源，
+
+
+2.Data Provider(数据提供程序)：用于连接数据库、执行命令、检索结果。
+
+
+  SQLServer数据提供程序   System.Data.SqlClient命名空间
+
+
+   OLEDB的数据提供程序    System.Data.Oledb命名空间
+
+   ODBC的数据提供程序     System.Data.Odbc命名空间
+
+   Oracle数据提供程序     System.Data.OracleClient命名空间
+
+
+Connection 提供与数据源的连接   SqlConnection 
+Command 执行数据库命令的对象    SqlCommand
+DataReader 从数据源中提供快速的，只读的数据流  SqlDataReader
+DataAdapter 提供DataSet对象与数据源的桥梁。Fill    Update 
+
+Leah  QQ 2159674643
+
+下节课：SqlConnection
+
+
+
+
+

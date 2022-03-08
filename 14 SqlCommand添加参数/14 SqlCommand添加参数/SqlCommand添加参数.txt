@@ -1,0 +1,19 @@
+参数的作用
+
+   不带任何条件，不是通过参数传递，拼接SQL语句，生成SQL，具体的值
+  
+   拼接SQL：容易被SQL注入--钻空子
+
+   防SQL注入  转义
+
+Command添加参数的几种方法
+
+cmd.Parameters.Add()
+cmd.Parameters.AddWithValue()
+
+cmd.Parameters.AddRange()
+
+
+Leah QQ 2159674643
+
+下节课：输出参数、输入输出、返回值参数使用

@@ -1,0 +1,30 @@
+
+
+输入参数
+
+ 参数化SQL语句或存储过程，默认使用的参数---输入参数
+
+以下三种：用在存储过程里
+
+输出参数
+   
+  output  程序中是可以接收到存储过程里需要返回的值 而不用return的  
+  Direction:Output
+
+输入输出参数
+
+ output进行标识 它需要传入值，也输出值  不用return
+  Value
+  Direction:InputOutput
+
+
+
+返回值参数
+
+ 它不出现在存储过程中  只可以返回的int类型  return 返回的值  
+ Direction:ReturnValue
+
+
+Leah QQ 2159674643
+
+下节课：SqlDataReader介绍

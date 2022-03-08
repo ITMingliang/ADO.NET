@@ -1,0 +1,14 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.pdb
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe.config
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.pdb
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csprojAssemblyReference.cache
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csproj.CoreCompileInputs.cache
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.exe
+D:\课程录制\Ado.Net录制\10 ExecuteNonQuery()方法\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.pdb

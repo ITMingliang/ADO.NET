@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\bin\Debug\AdoNetCourseSqlCommand.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlCommand\AdoNetCourseSqlCommand\obj\Debug\AdoNetCourseSqlCommand.pdb

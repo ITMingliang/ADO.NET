@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\bin\Debug\AdoNetCourseSqlDataReader.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\bin\Debug\AdoNetCourseSqlDataReader.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\bin\Debug\AdoNetCourseSqlDataReader.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\obj\Debug\AdoNetCourseSqlDataReader.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\obj\Debug\AdoNetCourseSqlDataReader.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\obj\Debug\AdoNetCourseSqlDataReader.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseSqlDataReader\AdoNetCourseSqlDataReader\obj\Debug\AdoNetCourseSqlDataReader.pdb

@@ -1,0 +1,43 @@
+概念
+ 
+   DataSet:数据在内存中的缓存（数据库） Ado.Net核心组件。 DataTable ：内存中一个表（数据库中的一个表）。
+
+应用：DataSet中的成员使用中，它可独立创建与使用。
+
+     结合DataAdapter使用。
+
+架构：列和约束来表示。 
+
+      DataColumn 列  
+
+成员  行 DataRow 
+
+
+构造  DataTable()   DataTable(表名)
+
+
+常用属性
+
+ Columns 列集合  Rows 行的集合  Contraints 约束的集合  DataSet: DataTable所属的DataSet     PrimaryKey 主键（列的数组）  TableName
+
+
+
+
+方法
+
+  AcceptChanges() 提交更改
+  RejectChanges() 回滚更改  Clear(）清空数据
+  Copy() 复制架构和数据
+  Clone() 只复制架构，不包含数据
+  Load(IDataReader)通过提供的IDataReader，用某个数据源的值来填充DataTable,
+  Merge(DataTable) 合并  指定的dt合并到当前的dt里
+
+  NewRow()创建一个DataRow,与Dt具有相同的架构
+  Reset()将dt重置到最初状态。
+  Select()  获取dt所有的行的数组 （条件，排序）
+  
+  
+
+Leah QQ 2159674643
+
+下节课：DataTable详解---DataTable使用

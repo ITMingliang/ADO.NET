@@ -1,0 +1,40 @@
+1.SqlCommand介绍  对SQLServer数据库执行的一个T-SQL语句或存储过程。
+
+SqlCommand对象：Ado.Net中执行数据库命令的对象。
+
+2.重要属性:
+      
+Connection:SqlCommand对象使用的SqlConnection
+CommandText:获取或设置要执行的T-SQL语句或存储过程名
+CommandType: CommandType.Text--执行的是一个Sql语句
+
+             CommandType.StoredProcedure --执行的是一个存储过程
+
+Parameters:SqlCommand对象的命令参数集合 空集合
+Transaction:获取或设置要在其中执行的事务
+
+
+3.创建
+
+ //1.
+                        SqlCommand cmd = new SqlCommand();
+                        cmd.Connection = conn;
+                        cmd.CommandText = sql;
+                        // cmd.CommandType = CommandType.Text; 没有必要的
+                        //cmd.CommandType = CommandType.StoredProcedure;//如果是存储过程，必须设置
+                        //2.
+                        SqlCommand cmd1 = new SqlCommand(sql);
+                        cmd1.Connection = conn;
+                        //3. sql语句  连接对象  推荐的
+                        SqlCommand cmd2 = new SqlCommand(sql, conn);
+
+                        //4. Connection对象
+                        SqlCommand cmd3 = conn.CreateCommand();
+                        cmd3.CommandText = sql;
+                        //5. 
+                        string delSql = "delete from UserInfos where UserId>3";
+                        //SqlCommand cmd4 = new SqlCommand(delSql, conn, null);
+
+Leah QQ 2159674643
+
+下节课：SqlCommand执行方法1----ExecuteNonQuery()

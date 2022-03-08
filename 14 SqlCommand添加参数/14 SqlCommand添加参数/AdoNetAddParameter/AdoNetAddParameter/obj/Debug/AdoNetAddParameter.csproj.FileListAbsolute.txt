@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\bin\Debug\AdoNetAddParameter.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\bin\Debug\AdoNetAddParameter.exe
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\bin\Debug\AdoNetAddParameter.pdb
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\obj\Debug\AdoNetAddParameter.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\obj\Debug\AdoNetAddParameter.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\obj\Debug\AdoNetAddParameter.exe
+D:\课件\录制课件\ADONetPro\AdoNetAddParameter\AdoNetAddParameter\obj\Debug\AdoNetAddParameter.pdb

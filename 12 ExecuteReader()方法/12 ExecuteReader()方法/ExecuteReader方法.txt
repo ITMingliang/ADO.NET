@@ -1,0 +1,17 @@
+
+1.介绍
+ 
+cmd.ExecuteReader() 查询 返回一个对象：SqlDataReader 数据流
+
+2.使用
+
+   数据读取，条件：conn  open
+  
+   即时存储
+
+   关闭：如果执行的不带参数的ExecuteReader，关闭dr，并不会关闭连接
+         如果执行的带参数的ExecuteReader，关闭dr，就会关闭连接；关闭连接也会关闭dr
+
+Leah QQ 2169674643
+
+下节课：SqlParameter

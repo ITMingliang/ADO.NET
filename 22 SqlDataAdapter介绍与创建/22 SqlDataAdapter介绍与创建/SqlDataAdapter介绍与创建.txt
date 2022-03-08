@@ -1,0 +1,28 @@
+SqlDataAdapter是什么
+  适配器（桥接器）：DataSet 数据 之间用于检索和保存数据的桥梁。
+
+SqlDataAdapter类 填充DataSet以及更新数据源 的一组数据库命令 和一个数据库连接。
+
+SqlDataAdapter 是DataSet和SQLServer之间的桥接器
+
+它是如何提供桥接的？
+   
+    Fill 填充到 DataSet里   Update 更改提交到数据库 数据保持一致。
+
+   SqlConnection  SqlCommand 一起使用，提高访问速度。
+
+4个重要属性
+
+   SelectCommand  查询  SqlCommand
+   InsertCommand  插入记录
+   UpdateCommand  更新数据库的记录
+   DeleteCommand  删除记录
+
+
+SqlDataAdapter 对数据的操作也是建立在SqlCommand基础之上的。
+
+4种创建方式
+
+Leah QQ 2159674643
+
+下节课：SqlDataAdapter Fill(原理)   Update  

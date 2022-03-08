@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\bin\Debug\AdoNetCourse09.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\bin\Debug\AdoNetCourse09.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\bin\Debug\AdoNetCourse09.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\obj\Debug\AdoNetCourse09.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\obj\Debug\AdoNetCourse09.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\obj\Debug\AdoNetCourse09.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourse09\AdoNetCourse09\obj\Debug\AdoNetCourse09.pdb

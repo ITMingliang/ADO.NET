@@ -1,0 +1,19 @@
+Ado.Net如何开启事务 SqlTransaction
+
+
+SqlTransaction介绍 SQLServer数据库中执行T-SQL事务
+
+
+与数据库事务有何不同？ 
+
+
+SqlTransaction的使用
+  
+   开启事务，执行一组操作，  更灵活，  不管理是不是批量，它都可以驾驭。
+
+
+Leah QQ 2159674643
+
+下节课：封装一个通用的数据访问类。
+
+

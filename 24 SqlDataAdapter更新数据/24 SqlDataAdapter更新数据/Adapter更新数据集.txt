@@ -1,0 +1,14 @@
+更新方式  Update(ds/dt/Rows)  DataRow  ---RowState:Added   Modified  Deleted 
+
+配置对应的命令属性的方式
+
+  1. SqlCommandBuilder 自动为da配置相关的命令
+
+   手动配置SqlCommand
+ //更新时，Modified---已修改的---da.UpdateCommand
+  //Added ---已添加----da.InsertCommand
+  //Deleted---已删除----da.DeleteCommand
+
+Leah QQ 2159674643
+
+下节课：Adapter与Reader比较

@@ -1,0 +1,32 @@
+为什么要封装这个通用类？
+
+  数据交互：增 删 改 查  ---相同的事：连接   T-SQL命令，Command  --执行命令 ，选择执行方式--得到相应的结果--- 关闭连接
+
+我们如果把所有的过程都写在一起，整个代码都杂乱无章，不清晰 
+
+
+改善：一些相同的逻辑---封装起来---通用  
+
+作用：代码重利用，提高效率，不再考虑交互过程，逻辑很清晰。
+
+不管项目架构是不是分层的，都很必要。
+
+
+DbHelper类的内容规划:
+
+1.连接钥匙--连接字符串--配置文件里  --建立连接---连接释放--using()--
+
+2.SqlCommand三种执行方法：增删改  ExecuteNonQuery()  查询，返回一个值ExecuteScalar()
+              
+                          ExecuteReader() --SqlDataReader
+
+3.SqlDataAdapter填充Ds  Dt 
+
+
+4.SqlTransaction  CommandInfo :T-SQL  参数数组  CommandType  // sql
+
+
+
+Leah QQ 2159674643
+
+下节课：具体实现过程：

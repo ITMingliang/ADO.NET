@@ -1,0 +1,19 @@
+Command执行方法
+
+                cmd.ExecuteNonQuery();
+                cmd.ExecuteScalar();
+                cmd.ExecuteReader();
+
+ExecuteNonQuery介绍
+
+/1.执行T-SQL语句或存储过程，并返回受影响的行数
+ //命令类型：插入、更新、删除---- DML 
+
+
+ExecuteNonQuery使用
+
+  
+
+Leah QQ 2159674643
+
+下节课：ExecuteScalar();

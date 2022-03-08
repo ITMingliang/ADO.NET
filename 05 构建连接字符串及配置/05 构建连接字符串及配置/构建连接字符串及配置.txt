@@ -1,0 +1,22 @@
+
+1.构建：
+    1） 手动写
+
+    2）专门的类来构建连接字符串  DbConnectionStringBuilder 基类   SqlConnectionStringBuilder
+
+程序代码中写连接字符串，如果要修改，过后重新编译，灵活性很差，如何解决？存储在配置文件
+
+怎么把连接字符串从配置文件中取出来
+
+
+2.配置文件中存储
+
+  配置到文件中   写哪个位置？ （推荐） connectionStrings节点中  appSettings节点中
+
+ string connStr =   ConfigurationManager.ConnectionStrings["connStr"].ConnectionString;//读取连接字符串
+ string connStr = ConfigurationManager.AppSettings["connStr"].ToString();
+
+
+Leah QQ 2159674643
+
+下节课：使用Conn连接对象

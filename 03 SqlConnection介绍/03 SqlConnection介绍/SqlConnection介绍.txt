@@ -1,0 +1,26 @@
+Ado.Net访问数据的步骤
+
+   连接到数据库   打开连接  创建执行命令对象（创建命令）  执行命令  关闭连接
+
+
+SqlConnection类  继承于  DbConnection 抽象基类，不能被实例化。提供与SqlServer数据库的连接。
+
+
+
+常用属性
+
+ConnectionString  State  DataBase   DataSource 
+
+State :Closed 已关闭  Open 打开  Connecting 正在连接   Executing 正在执行命令  Fetching 正在检索数据
+       Broken 连接中断
+
+
+常用方法
+
+
+Open()   Close()   Dispose()
+
+Leah QQ 2159674643
+
+下节课：连接字符串
+

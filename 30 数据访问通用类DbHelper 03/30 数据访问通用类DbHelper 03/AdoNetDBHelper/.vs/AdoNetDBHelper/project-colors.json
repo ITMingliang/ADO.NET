@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b35d878b-d412-4f99-94e6-7eacc2f0c62f": {
+      "ProjectGuid": "b35d878b-d412-4f99-94e6-7eacc2f0c62f",
+      "DisplayName": "AdoNetDBHelper",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,23 @@
+1.创建
+
+ 
+
+2.使用
+  
+  
+
+3.释放
+
+
+异常：try {    } catch(){    } finally{ }
+
+using语句块  ----try   finally  没有catch，处理异常  ---释放对象
+
+using 引用命名空间
+
+using 命别名
+
+Leah QQ 2159674643
+
+
+下一节：连接池

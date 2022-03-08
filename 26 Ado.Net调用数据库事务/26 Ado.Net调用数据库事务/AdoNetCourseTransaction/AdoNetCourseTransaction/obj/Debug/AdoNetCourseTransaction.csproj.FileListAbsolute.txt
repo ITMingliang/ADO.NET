@@ -1,0 +1,7 @@
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\obj\Debug\AdoNetCourseTransaction.csprojAssemblyReference.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\obj\Debug\AdoNetCourseTransaction.csproj.CoreCompileInputs.cache
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\bin\Debug\AdoNetCourseTransaction.exe.config
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\bin\Debug\AdoNetCourseTransaction.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\bin\Debug\AdoNetCourseTransaction.pdb
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\obj\Debug\AdoNetCourseTransaction.exe
+D:\课件\录制课件\ADONetPro\AdoNetCourseTransaction\AdoNetCourseTransaction\obj\Debug\AdoNetCourseTransaction.pdb
